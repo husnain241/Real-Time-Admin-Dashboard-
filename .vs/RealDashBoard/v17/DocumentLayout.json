@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MNA\\source\\repos\\RealDashBoard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46BBA7E1-B2F0-471D-9EA7-688DB5A149D7}|RealDashBoard\\RealDashBoard.csproj|c:\\users\\mna\\source\\repos\\realdashboard\\realdashboard\\models\\chatcleanupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BBA7E1-B2F0-471D-9EA7-688DB5A149D7}|RealDashBoard\\RealDashBoard.csproj|solutionrelative:realdashboard\\models\\chatcleanupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BBA7E1-B2F0-471D-9EA7-688DB5A149D7}|RealDashBoard\\RealDashBoard.csproj|c:\\users\\mna\\source\\repos\\realdashboard\\realdashboard\\models\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BBA7E1-B2F0-471D-9EA7-688DB5A149D7}|RealDashBoard\\RealDashBoard.csproj|solutionrelative:realdashboard\\models\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BBA7E1-B2F0-471D-9EA7-688DB5A149D7}|RealDashBoard\\RealDashBoard.csproj|c:\\users\\mna\\source\\repos\\realdashboard\\realdashboard\\models\\chatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BBA7E1-B2F0-471D-9EA7-688DB5A149D7}|RealDashBoard\\RealDashBoard.csproj|solutionrelative:realdashboard\\models\\chatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BBA7E1-B2F0-471D-9EA7-688DB5A149D7}|RealDashBoard\\RealDashBoard.csproj|c:\\users\\mna\\source\\repos\\realdashboard\\realdashboard\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BBA7E1-B2F0-471D-9EA7-688DB5A149D7}|RealDashBoard\\RealDashBoard.csproj|solutionrelative:realdashboard\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BBA7E1-B2F0-471D-9EA7-688DB5A149D7}|RealDashBoard\\RealDashBoard.csproj|c:\\users\\mna\\source\\repos\\realdashboard\\realdashboard\\hub\\userhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BBA7E1-B2F0-471D-9EA7-688DB5A149D7}|RealDashBoard\\RealDashBoard.csproj|solutionrelative:realdashboard\\hub\\userhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BBA7E1-B2F0-471D-9EA7-688DB5A149D7}|RealDashBoard\\RealDashBoard.csproj|c:\\users\\mna\\source\\repos\\realdashboard\\realdashboard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BBA7E1-B2F0-471D-9EA7-688DB5A149D7}|RealDashBoard\\RealDashBoard.csproj|solutionrelative:realdashboard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BBA7E1-B2F0-471D-9EA7-688DB5A149D7}|RealDashBoard\\RealDashBoard.csproj|c:\\users\\mna\\source\\repos\\realdashboard\\realdashboard\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BBA7E1-B2F0-471D-9EA7-688DB5A149D7}|RealDashBoard\\RealDashBoard.csproj|solutionrelative:realdashboard\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BBA7E1-B2F0-471D-9EA7-688DB5A149D7}|RealDashBoard\\RealDashBoard.csproj|c:\\users\\mna\\source\\repos\\realdashboard\\realdashboard\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BBA7E1-B2F0-471D-9EA7-688DB5A149D7}|RealDashBoard\\RealDashBoard.csproj|solutionrelative:realdashboard\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BBA7E1-B2F0-471D-9EA7-688DB5A149D7}|RealDashBoard\\RealDashBoard.csproj|c:\\users\\mna\\source\\repos\\realdashboard\\realdashboard\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{46BBA7E1-B2F0-471D-9EA7-688DB5A149D7}|RealDashBoard\\RealDashBoard.csproj|solutionrelative:realdashboard\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BBA7E1-B2F0-471D-9EA7-688DB5A149D7}|RealDashBoard\\RealDashBoard.csproj|c:\\users\\mna\\source\\repos\\realdashboard\\realdashboard\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BBA7E1-B2F0-471D-9EA7-688DB5A149D7}|RealDashBoard\\RealDashBoard.csproj|solutionrelative:realdashboard\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BBA7E1-B2F0-471D-9EA7-688DB5A149D7}|RealDashBoard\\RealDashBoard.csproj|c:\\users\\mna\\source\\repos\\realdashboard\\realdashboard\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{46BBA7E1-B2F0-471D-9EA7-688DB5A149D7}|RealDashBoard\\RealDashBoard.csproj|solutionrelative:realdashboard\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BBA7E1-B2F0-471D-9EA7-688DB5A149D7}|RealDashBoard\\RealDashBoard.csproj|c:\\users\\mna\\source\\repos\\realdashboard\\realdashboard\\realdashboard.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{46BBA7E1-B2F0-471D-9EA7-688DB5A149D7}|RealDashBoard\\RealDashBoard.csproj|solutionrelative:realdashboard\\realdashboard.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BBA7E1-B2F0-471D-9EA7-688DB5A149D7}|RealDashBoard\\RealDashBoard.csproj|c:\\users\\mna\\source\\repos\\realdashboard\\realdashboard\\dtos\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BBA7E1-B2F0-471D-9EA7-688DB5A149D7}|RealDashBoard\\RealDashBoard.csproj|solutionrelative:realdashboard\\dtos\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BBA7E1-B2F0-471D-9EA7-688DB5A149D7}|RealDashBoard\\RealDashBoard.csproj|c:\\users\\mna\\source\\repos\\realdashboard\\realdashboard\\dtos\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BBA7E1-B2F0-471D-9EA7-688DB5A149D7}|RealDashBoard\\RealDashBoard.csproj|solutionrelative:realdashboard\\dtos\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BBA7E1-B2F0-471D-9EA7-688DB5A149D7}|RealDashBoard\\RealDashBoard.csproj|c:\\users\\mna\\source\\repos\\realdashboard\\realdashboard\\migrations\\20250422113717_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BBA7E1-B2F0-471D-9EA7-688DB5A149D7}|RealDashBoard\\RealDashBoard.csproj|solutionrelative:realdashboard\\migrations\\20250422113717_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BBA7E1-B2F0-471D-9EA7-688DB5A149D7}|RealDashBoard\\RealDashBoard.csproj|c:\\users\\mna\\source\\repos\\realdashboard\\realdashboard\\migrations\\20250422143848_wed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BBA7E1-B2F0-471D-9EA7-688DB5A149D7}|RealDashBoard\\RealDashBoard.csproj|solutionrelative:realdashboard\\migrations\\20250422143848_wed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BBA7E1-B2F0-471D-9EA7-688DB5A149D7}|RealDashBoard\\RealDashBoard.csproj|c:\\users\\mna\\source\\repos\\realdashboard\\realdashboard\\migrations\\20250425152123_addchatmessagetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BBA7E1-B2F0-471D-9EA7-688DB5A149D7}|RealDashBoard\\RealDashBoard.csproj|solutionrelative:realdashboard\\migrations\\20250425152123_addchatmessagetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatCleanupService.cs",
+              "DocumentMoniker": "C:\\Users\\MNA\\source\\repos\\RealDashBoard\\RealDashBoard\\Models\\ChatCleanupService.cs",
+              "RelativeDocumentMoniker": "RealDashBoard\\Models\\ChatCleanupService.cs",
+              "ToolTip": "C:\\Users\\MNA\\source\\repos\\RealDashBoard\\RealDashBoard\\Models\\ChatCleanupService.cs",
+              "RelativeToolTip": "RealDashBoard\\Models\\ChatCleanupService.cs",
+              "ViewState": "AQIAABwAAABA8P////8XwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T16:46:29.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250425152123_AddChatMessageTable.cs",
+              "DocumentMoniker": "C:\\Users\\MNA\\source\\repos\\RealDashBoard\\RealDashBoard\\Migrations\\20250425152123_AddChatMessageTable.cs",
+              "RelativeDocumentMoniker": "RealDashBoard\\Migrations\\20250425152123_AddChatMessageTable.cs",
+              "ToolTip": "C:\\Users\\MNA\\source\\repos\\RealDashBoard\\RealDashBoard\\Migrations\\20250425152123_AddChatMessageTable.cs",
+              "RelativeToolTip": "RealDashBoard\\Migrations\\20250425152123_AddChatMessageTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T15:21:24.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MNA\\source\\repos\\RealDashBoard\\RealDashBoard\\Models\\ChatRepository.cs",
+              "RelativeDocumentMoniker": "RealDashBoard\\Models\\ChatRepository.cs",
+              "ToolTip": "C:\\Users\\MNA\\source\\repos\\RealDashBoard\\RealDashBoard\\Models\\ChatRepository.cs",
+              "RelativeToolTip": "RealDashBoard\\Models\\ChatRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:02:52.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatMessage.cs",
+              "DocumentMoniker": "C:\\Users\\MNA\\source\\repos\\RealDashBoard\\RealDashBoard\\Models\\ChatMessage.cs",
+              "RelativeDocumentMoniker": "RealDashBoard\\Models\\ChatMessage.cs",
+              "ToolTip": "C:\\Users\\MNA\\source\\repos\\RealDashBoard\\RealDashBoard\\Models\\ChatMessage.cs",
+              "RelativeToolTip": "RealDashBoard\\Models\\ChatMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:01:05.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserHub.cs",
+              "DocumentMoniker": "C:\\Users\\MNA\\source\\repos\\RealDashBoard\\RealDashBoard\\Hub\\UserHub.cs",
+              "RelativeDocumentMoniker": "RealDashBoard\\Hub\\UserHub.cs",
+              "ToolTip": "C:\\Users\\MNA\\source\\repos\\RealDashBoard\\RealDashBoard\\Hub\\UserHub.cs",
+              "RelativeToolTip": "RealDashBoard\\Hub\\UserHub.cs",
+              "ViewState": "AQIAACkAAAAQkZmZmZkBwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T13:04:42.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RealDashBoard",
+              "DocumentMoniker": "C:\\Users\\MNA\\source\\repos\\RealDashBoard\\RealDashBoard\\RealDashBoard.csproj",
+              "RelativeDocumentMoniker": "RealDashBoard\\RealDashBoard.csproj",
+              "ToolTip": "C:\\Users\\MNA\\source\\repos\\RealDashBoard\\RealDashBoard\\RealDashBoard.csproj",
+              "RelativeToolTip": "RealDashBoard\\RealDashBoard.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T13:03:59.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250422143848_wed.cs",
+              "DocumentMoniker": "C:\\Users\\MNA\\source\\repos\\RealDashBoard\\RealDashBoard\\Migrations\\20250422143848_wed.cs",
+              "RelativeDocumentMoniker": "RealDashBoard\\Migrations\\20250422143848_wed.cs",
+              "ToolTip": "C:\\Users\\MNA\\source\\repos\\RealDashBoard\\RealDashBoard\\Migrations\\20250422143848_wed.cs",
+              "RelativeToolTip": "RealDashBoard\\Migrations\\20250422143848_wed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T14:38:48.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\MNA\\source\\repos\\RealDashBoard\\RealDashBoard\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "RealDashBoard\\Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\MNA\\source\\repos\\RealDashBoard\\RealDashBoard\\Data\\SeedData.cs",
+              "RelativeToolTip": "RealDashBoard\\Data\\SeedData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T13:14:05.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\MNA\\source\\repos\\RealDashBoard\\RealDashBoard\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RealDashBoard\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\MNA\\source\\repos\\RealDashBoard\\RealDashBoard\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RealDashBoard\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAYMjMzMzMbwB0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-22T12:52:26.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250422113717_init.cs",
+              "DocumentMoniker": "C:\\Users\\MNA\\source\\repos\\RealDashBoard\\RealDashBoard\\Migrations\\20250422113717_init.cs",
+              "RelativeDocumentMoniker": "RealDashBoard\\Migrations\\20250422113717_init.cs",
+              "ToolTip": "C:\\Users\\MNA\\source\\repos\\RealDashBoard\\RealDashBoard\\Migrations\\20250422113717_init.cs",
+              "RelativeToolTip": "RealDashBoard\\Migrations\\20250422113717_init.cs",
+              "ViewState": "AQIAADIAAABAzszMzEwnwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T11:37:17.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MNA\\source\\repos\\RealDashBoard\\RealDashBoard\\appsettings.json",
+              "RelativeDocumentMoniker": "RealDashBoard\\appsettings.json",
+              "ToolTip": "C:\\Users\\MNA\\source\\repos\\RealDashBoard\\RealDashBoard\\appsettings.json",
+              "RelativeToolTip": "RealDashBoard\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-22T11:27:55.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\MNA\\source\\repos\\RealDashBoard\\RealDashBoard\\DTOs\\LoginModel.cs",
+              "RelativeDocumentMoniker": "RealDashBoard\\DTOs\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\MNA\\source\\repos\\RealDashBoard\\RealDashBoard\\DTOs\\LoginModel.cs",
+              "RelativeToolTip": "RealDashBoard\\DTOs\\LoginModel.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T11:27:33.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\MNA\\source\\repos\\RealDashBoard\\RealDashBoard\\DTOs\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "RealDashBoard\\DTOs\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\MNA\\source\\repos\\RealDashBoard\\RealDashBoard\\DTOs\\RegisterModel.cs",
+              "RelativeToolTip": "RealDashBoard\\DTOs\\RegisterModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T11:27:02.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\MNA\\source\\repos\\RealDashBoard\\RealDashBoard\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "RealDashBoard\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\MNA\\source\\repos\\RealDashBoard\\RealDashBoard\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "RealDashBoard\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T11:25:46.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MNA\\source\\repos\\RealDashBoard\\RealDashBoard\\Program.cs",
+              "RelativeDocumentMoniker": "RealDashBoard\\Program.cs",
+              "ToolTip": "C:\\Users\\MNA\\source\\repos\\RealDashBoard\\RealDashBoard\\Program.cs",
+              "RelativeToolTip": "RealDashBoard\\Program.cs",
+              "ViewState": "AQIAABAAAACQZWZmZmYswCUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T11:24:06.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MNA\\source\\repos\\RealDashBoard\\RealDashBoard\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "RealDashBoard\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\MNA\\source\\repos\\RealDashBoard\\RealDashBoard\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "RealDashBoard\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T11:23:42.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\MNA\\source\\repos\\RealDashBoard\\RealDashBoard\\Models\\User.cs",
+              "RelativeDocumentMoniker": "RealDashBoard\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\MNA\\source\\repos\\RealDashBoard\\RealDashBoard\\Models\\User.cs",
+              "RelativeToolTip": "RealDashBoard\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T11:22:56.912Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+/* authFormStyles.css - shared styles for Login and Signup forms */
+
+/* ====== Common Auth Forms ====== */
+.auth-container {
+  max-width: 400px;
+  margin: 60px auto;
+  padding: 30px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  background-color: #f9f9f9;
+  font-family: Arial, sans-serif;
+}
+
+.auth-title {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.auth-form {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.auth-input {
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.auth-button {
+  padding: 10px;
+  background-color: #4caf50;
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.auth-button:hover {
+  background-color: #45a049;
+}
+
+.auth-error {
+  color: red;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.auth-switch {
+  margin-top: 15px;
+  text-align: center;
+  font-size: 14px;
+}
+
+.auth-switch a {
+  color: #007bff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+/* ====== Form Container ====== */
+.form-container {
+  max-width: 400px;
+  margin: 80px auto;
+  padding: 30px;
+  background: #f4f4f4;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-box {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+input {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+button {
+  padding: 10px;
+  background-color: #007bff;
+  border: none;
+  color: white;
+  font-weight: bold;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.error-text {
+  color: red;
+  margin-top: 10px;
+}
+
+.link-box {
+  margin-top: 20px;
+  text-align: center;
+}
+
+/* ====== Admin Dashboard ====== */
+.admin-container {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 20px;
+  background: #f7f9fb;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.admin-title {
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 24px;
+  color: #333;
+}
+
+.section-title {
+  margin-top: 40px;
+  margin-bottom: 20px;
+  font-size: 24px;
+}
+
+/* ====== User Cards ====== */
+.user-list {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.user-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 20px;
+  background-color: #f9f9f9;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s ease;
+}
+
+.user-row:hover {
+  transform: scale(1.02);
+}
+
+.user-info {
+  flex-grow: 1;
+}
+
+.user-email {
+  margin: 0;
+  font-weight: bold;
+}
+
+.user-status {
+  margin: 4px 0 0 0;
+  color: #555;
+}
+
+.status-dot {
+  font-weight: bold;
+}
+
+.status-dot.online {
+  color: green;
+}
+
+.status-dot.offline {
+  color: red;
+}
+
+/* ====== Action Buttons ====== */
+.chat-button {
+  background-color: #28a745;
+  color: #fff;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.chat-button:hover {
+  background-color: #218838;
+}
+
+.delete-button {
+  background-color: #dc3545;
+  color: #fff;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  cursor: pointer;
+  margin-left: 10px;
+  transition: background-color 0.3s;
+}
+
+.delete-button:hover {
+  background-color: #c82333;
+}
+
+/* ====== Icons ====== */
+.icon-action {
+  cursor: pointer;
+  transition: transform 0.2s, color 0.3s;
+}
+
+.icon-action:hover {
+  transform: scale(1.2);
+}
+
+.delete-icon {
+  color: #dc3545;
+}
+
+.delete-icon:hover {
+  color: #bd2130;
+}
+
+.chat-icon {
+  color: #28a745;
+}
+
+.chat-icon:hover {
+  color: #1e7e34;
+}
+
+/* ====== Special Inputs (Send icon inside) ====== */
+.send-icon-inside-input {
+  position: absolute;
+  top: 50%;
+  right: 12px;
+  transform: translateY(-50%);
+  color: #007bff;
+  background-color: transparent;
+  cursor: pointer;
+  transition: transform 0.2s, color 0.3s;
+}
+
+.send-icon-inside-input:hover {
+  color: #0056b3;
+  transform: translateY(-50%) scale(1.2);
+}
+
+/* ====== Badges ====== */
+/* .badge {
+  position: absolute;
+  top: -5px;
+  right: -8px;
+  background-color: red;
+  color: white;
+  font-size: 10px;
+  font-weight: bold;
+  border-radius: 50%;
+  padding: 2px 6px;
+} */

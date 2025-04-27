@@ -1,0 +1,6 @@
+@RealDashBoard_HostAddress = http://localhost:5201
+
+GET {{RealDashBoard_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
